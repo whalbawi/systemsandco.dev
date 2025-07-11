@@ -1,0 +1,11 @@
+title: Systems & Co.
+email: waelhalbawi@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  A blog about systems programming and the like.
+url: "https://whalbawi.github.io"
+github_username: whalbawi
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
