@@ -2,10 +2,28 @@ title: Systems & Co.
 email: waelhalbawi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A blog about systems programming and the like.
-url: "https://whalbawi.github.io"
+url: "https://systemsandco.dev"
 github_username: whalbawi
 
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+# permalink: /:slug
+
+# favicon: "./logo.png" # relative path to site's favicon
+
+remote_theme: abhinavs/moonwalk
+
+theme_config:
+  appearance: "auto" # can be "light", "dark" or "auto"
+  appearance_toggle: true # if appearance can be switched by user
+  back_home_text: "Home" # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: true # show blog description
+  show_navbar: true # show horizontal navbar
+  show_copyright: true # show copyright notice in footer
+  show_reading_time: true # show number of words and reading time in the blog posts
+  show_tags: true # show tags in a blog posts
+
+highlighter: rouge
+
+sass:
+  style: :compressed
+
