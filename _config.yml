@@ -1,15 +1,10 @@
 title: Systems & Co.
 email: waelhalbawi@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  A blog about systems programming and the like.
+description: A blog about systems programming and the like.
 url: "https://systemsandco.dev"
 github_username: whalbawi
 
 # permalink: /:slug
-
-# favicon: "./logo.png" # relative path to site's favicon
-
-remote_theme: abhinavs/moonwalk
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
