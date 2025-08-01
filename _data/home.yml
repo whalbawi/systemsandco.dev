@@ -3,7 +3,7 @@ navbar_entries:
     url: /
 
   - title: about
-    url: about
+    url: /about
 
   - title: github
     url: https://github.com/whalbawi

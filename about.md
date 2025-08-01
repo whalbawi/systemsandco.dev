@@ -4,4 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Coming Soon
+My interests include:
+* High-performance software
+* Systems programming
+* Distributed storage systems
+* Rigorous analysis
+* Information & Coding theory
